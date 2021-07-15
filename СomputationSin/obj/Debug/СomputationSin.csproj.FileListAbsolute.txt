@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\СomputationSin\СomputationSin\bin\Debug\СomputationSin.exe.config
+C:\Users\Lenovo\source\repos\СomputationSin\СomputationSin\bin\Debug\СomputationSin.exe
+C:\Users\Lenovo\source\repos\СomputationSin\СomputationSin\bin\Debug\СomputationSin.pdb
+C:\Users\Lenovo\source\repos\СomputationSin\СomputationSin\obj\Debug\СomputationSin.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\СomputationSin\СomputationSin\obj\Debug\СomputationSin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\СomputationSin\СomputationSin\obj\Debug\СomputationSin.exe
+C:\Users\Lenovo\source\repos\СomputationSin\СomputationSin\obj\Debug\СomputationSin.pdb
